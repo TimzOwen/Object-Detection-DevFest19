@@ -6,3 +6,4 @@ This one of the best tensorflow examples from ts
 
 TensorFlow Architecture conversion models to tensorflow Lite
 
+Screenshot ofthe models trained and the Androdi permisions from manifest
